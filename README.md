@@ -18,3 +18,4 @@ This reference design serves a solid starting point for engineers, students, and
 This design is based on common and high-performance components:
 
 - Controller IC: KP21824M (or equivalent PSR controller), intergrated internal MOSFET.
+- Transformer: Custom-designed flyback transformer.
