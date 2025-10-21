@@ -19,3 +19,7 @@ This design is based on common and high-performance components:
 
 - Controller IC: KP21824M (or equivalent PSR controller), intergrated internal MOSFET.
 - Transformer: Custom-designed flyback transformer.
+## 📂 Design Files
+
+- Schematics: Contains the schematic files.
+- Excel file: Calculate parameters flyback.
